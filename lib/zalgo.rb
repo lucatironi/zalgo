@@ -1,0 +1,1 @@
+require 'zalgo/railtie' if defined?(Rails)
